@@ -11,3 +11,7 @@
 
 ## 2017.8.25
 [Hopper tutorial](https://www.hopperapp.com/tutorial.html)
+
+## 2017.8.28
+[非越狱环境下从应用重签名到微信上加载Cycript](http://www.jianshu.com/p/262b9849fa10)
+[iOSAppHook](https://github.com/Urinx/iOSAppHook)
