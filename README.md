@@ -14,3 +14,9 @@
 
 ## 2017.8.28
 [iOSAppHook](https://github.com/Urinx/iOSAppHook)
+
+## 2017.9.7
+[Why is ARKit better than the alternatives?
+](https://medium.com/super-ventures-blog/why-is-arkit-better-than-the-alternatives-af8871889d6a)
+
+
