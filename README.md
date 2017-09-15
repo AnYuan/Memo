@@ -24,3 +24,7 @@
 
 [RxJS 入门指引和初步应用](https://zhuanlan.zhihu.com/p/25383159)
 
+
+## 2017.9.15
+[工作缺少劲头怎么办
+](http://limboy.me/essay/2017/08/31/work-exhaust.html)
