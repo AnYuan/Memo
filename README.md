@@ -28,3 +28,9 @@
 ## 2017.9.15
 [工作缺少劲头怎么办
 ](http://limboy.me/essay/2017/08/31/work-exhaust.html)
+
+## 2017.9.16
+
+[The introduction to Reactive Programming you've been missing
+
+](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
