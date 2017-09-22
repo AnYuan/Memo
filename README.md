@@ -3,6 +3,8 @@
 ## 2017.9.22
 [interviews](https://github.com/kdn251/interviews): Everything you need to know to get the job.
 
+[UC Berkeley webcast](https://archive.org/details/ucberkeley-webcast)
+
 ## 2017.9.16
 
 [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
