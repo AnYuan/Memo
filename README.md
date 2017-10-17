@@ -1,5 +1,8 @@
 # reading-list
 
+## 2017.10.17
+[Reverse Engineering resources](https://github.com/wtsxDev/reverse-engineering)
+
 ## 2017.9.22
 [interviews](https://github.com/kdn251/interviews): Everything you need to know to get the job.
 
