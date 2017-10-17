@@ -3,6 +3,9 @@
 ## 2017.10.17
 [Reverse Engineering resources](https://github.com/wtsxDev/reverse-engineering)
 
+[LLDB](https://github.com/DerekSelander/LLDB): A collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions
+
+
 ## 2017.9.22
 [interviews](https://github.com/kdn251/interviews): Everything you need to know to get the job.
 
