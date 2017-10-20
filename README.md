@@ -1,5 +1,8 @@
 # reading-list
 
+## 2017.10.20
+[faqs](http://www.faqs.org/faqs/):Internet FAQ Archives
+
 ## 2017.10.17
 [Reverse Engineering resources](https://github.com/wtsxDev/reverse-engineering)
 
