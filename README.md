@@ -2,6 +2,7 @@
 
 ## 2017.10.26
 [Runtime](https://github.com/NSExceptional/Runtime): An Objective-C simulator written in Swift.
+[SQift](https://github.com/Nike-Inc/SQift): Powerful Swift wrapper for SQLite
 
 ## 2017.10.20
 [faqs](http://www.faqs.org/faqs/):Internet FAQ Archives
