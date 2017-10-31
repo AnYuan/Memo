@@ -1,5 +1,8 @@
 # reading-list
 
+## 2017.10.31
+[The Importance of Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/the-importance-of-algorithms/)
+
 ## 2017.10.26
 [Runtime](https://github.com/NSExceptional/Runtime): An Objective-C simulator written in Swift.
 
