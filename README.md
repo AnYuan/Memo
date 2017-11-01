@@ -1,5 +1,9 @@
 # reading-list
 
+## 2017.11.1
+[Cards](https://github.com/PaoloCuscela/Cards): Awesome iOS 11 appstore cards in swift 4.
+
+
 ## 2017.10.31
 [The Importance of Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/the-importance-of-algorithms/)
 
