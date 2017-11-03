@@ -1,5 +1,8 @@
 # reading-list
 
+## 2017.11.3
+[一种基于ResponderChain的对象交互方式](https://casatwy.com/responder_chain_communication.html)
+
 ## 2017.11.1
 [Cards](https://github.com/PaoloCuscela/Cards): Awesome iOS 11 appstore cards in swift 4.
 
