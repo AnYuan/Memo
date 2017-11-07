@@ -1,5 +1,8 @@
 # reading-list
 
+## 2017.11.6
+[RIBs](https://github.com/uber/RIBs): Uber's cross-platform mobile architecture.
+
 ## 2017.11.5
 [Introduction to Compilers](https://github.com/ahoppen/introduction-to-compilers)
 
