@@ -1,5 +1,10 @@
 # reading-list
 
+## 2017.11.16
+[Intro to asm](https://github.com/vedantk/intro-to-asm)
+
+[Objective C Generics](http://drekka.ghost.io/objective-c-generics/)
+
 ## 2017.11.6
 [RIBs](https://github.com/uber/RIBs): Uber's cross-platform mobile architecture.
 
