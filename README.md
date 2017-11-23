@@ -7,6 +7,8 @@
 
 [IGListKit](https://github.com/Instagram/IGListKit): A data-driven UICollectionView framework for building fast and flexible lists. 
 
+[Swizzling in iOS 11 with UIDebuggingInformationOverlay](https://www.raywenderlich.com/177890/swizzling-in-ios-11-with-uidebugginginformationoverlay)
+
 ## 2017.11.16
 [Intro to asm](https://github.com/vedantk/intro-to-asm)
 
