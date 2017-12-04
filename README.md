@@ -3,6 +3,7 @@
 ## 2017.12.4
 [english-level-up-tips-for-Chinese](https://github.com/byoungd/english-level-up-tips-for-Chinese): 可能是让你受益匪浅的英语进阶指南
 
+[awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## 2017.11.23
 [objc dependency visualizer](https://github.com/PaulTaykalo/objc-dependency-visualizer)
