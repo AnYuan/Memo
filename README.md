@@ -1,5 +1,10 @@
 # reading-list
 
+## 2017.12.12
+[RealReachability](https://github.com/dustturtle/RealReachability):  We need to observe the REAL reachability of network. That's what RealReachability do.
+
+[pytudes](https://github.com/norvig/pytudes):  Python programs to practice or demonstrate skills.
+
 ## 2017.12.8
 [Pulley](https://github.com/52inc/Pulley): A library to imitate the iOS 10 Maps UI.
 
