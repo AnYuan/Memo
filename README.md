@@ -3,6 +3,9 @@
 ## 2017.12.19
 [ReviewMonitor](https://github.com/RishabhTayal/ReviewMonitor):  iTunes Connect app which is actually useful
 
+[Watchdog](https://github.com/wojteklu/Watchdog): Class for logging excessive blocking on the main thread
+
+
 
 ## 2017.12.13
 [嵌套UIScrollview的滑动冲突解决方案](http://www.jianshu.com/p/040772693872)
