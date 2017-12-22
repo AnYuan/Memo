@@ -4,6 +4,11 @@
 [POP](https://github.com/facebook/pop):
 An extensible iOS and OS X animation library, useful for physics-based interactions.
 
+[FacebookPop](https://github.com/maxmyers/FacebookPop):
+Facebook Pop Tutorial
+
+[popping](https://github.com/schneiderandre/popping): A collection of animation examples for iOS apps. Using pop
+
 
 [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton): 
 Flat button with 9 different states using POP
