@@ -4,6 +4,10 @@
 [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel): 
 [EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift.
 
+[FastImageCache](https://github.com/path/FastImageCache): 
+iOS library for quickly displaying images while scrolling
+
+
 
 ## 2018.1.2
 
