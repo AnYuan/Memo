@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.1.5
+[Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript):A mostly reasonable collection of technical software development interview questions solved in Javascript
+
+
 ## 2018.1.4
 [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel): 
 [EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift.
