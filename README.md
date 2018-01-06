@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.1.6
+[SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages):A very flexible message bar for iOS written in Swift.
+
+
 ## 2018.1.5
 [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript):A mostly reasonable collection of technical software development interview questions solved in Javascript
 
