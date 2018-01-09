@@ -1,5 +1,8 @@
 # reading-list
 
+## 2018.1.9
+[DeepDiff](https://github.com/onmyway133/DeepDiff): 🦀 Very fast diffing in Swift
+
 ## 2018.1.8
 [Docusaurus](https://github.com/facebook/Docusaurus): Easy to maintain open source documentation websites. https://docusaurus.io
 
