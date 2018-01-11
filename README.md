@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.1.11
+[SwiftTips](https://github.com/JohnSundell/SwiftTips): A collection of Swift tips & tricks that I've shared on Twitter https://twitter.com/johnsundell
+
+
 ## 2018.1.9
 [DeepDiff](https://github.com/onmyway133/DeepDiff): 🦀 Very fast diffing in Swift
 
