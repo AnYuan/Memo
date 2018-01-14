@@ -1,5 +1,11 @@
 # reading-list
 
+## 2018.1.14
+[Optimizing Swift Build Times](https://github.com/fastred/Optimizing-Swift-Build-Times):  Collection of advice on optimizing compile times of Swift projects.
+
+[iOS Snapshot test case](https://github.com/uber/ios-snapshot-test-case): 
+Snapshot view unit tests for iOS
+
 ## 2018.1.11
 [SwiftTips](https://github.com/JohnSundell/SwiftTips): A collection of Swift tips & tricks that I've shared on Twitter https://twitter.com/johnsundell
 
