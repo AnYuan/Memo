@@ -3,6 +3,9 @@
 ## 2018.1.16
 [Alerts Pickers](https://github.com/dillidon/Alerts-Pickers): Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 
+[EFQRCode](https://github.com/EyreFree/EFQRCode): A better way to operate quick response code in Swift. http://cocoapods.org/pods/EFQRCode
+
+
 ## 2018.1.14
 [Optimizing Swift Build Times](https://github.com/fastred/Optimizing-Swift-Build-Times):  Collection of advice on optimizing compile times of Swift projects.
 
