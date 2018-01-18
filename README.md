@@ -3,6 +3,8 @@
 ## 2018.1.18
 [objc4-706](https://github.com/isaacselement/objc4-706)
 
+[math](https://github.com/apachecn/math): 麻省理工公开课-线性代数-完整笔记
+
 ## 2018.1.16
 [Alerts Pickers](https://github.com/dillidon/Alerts-Pickers): Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 
