@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.1.20
+[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout):UICollectionViewLayout subclass to display slanted content
+
+
 ## 2018.1.18
 [objc4-706](https://github.com/isaacselement/objc4-706)
 
