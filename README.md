@@ -3,6 +3,12 @@
 ## 2018.1.21
 [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator):  ViewAnimator brings your UI to life with just one line
 
+[ProcedureKit](https://github.com/ProcedureKit/ProcedureKit):  Advanced Operations in Swift http://procedure.kit.run/development/
+
+[SDWebImage](https://github.com/rs/SDWebImage): 
+Asynchronous image downloader with cache support as a UIImageView category http://cocoadocs.org/docsets/SDWebImage
+
+
 
 ## 2018.1.20
 [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout):UICollectionViewLayout subclass to display slanted content
