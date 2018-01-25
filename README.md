@@ -1,5 +1,12 @@
 # reading-list
 
+## 2018.1.25
+[React Fiber Architecture
+](https://github.com/acdlite/react-fiber-architecture): A description of React's new core algorithm, React Fiber
+
+[GodEye](https://github.com/zixun/GodEye):Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
+
+
 ## 2018.1.21
 [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator):  ViewAnimator brings your UI to life with just one line
 
