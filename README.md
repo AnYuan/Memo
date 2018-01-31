@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.1.31
+[pointfreeco](https://github.com/pointfreeco/episode-code-samples):episode-code-samples
+
+
 ## 2018.1.25
 [React Fiber Architecture
 ](https://github.com/acdlite/react-fiber-architecture): A description of React's new core algorithm, React Fiber
