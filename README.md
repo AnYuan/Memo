@@ -1,5 +1,8 @@
 # reading-list
 
+## 2018.3.6
+[Property Animators](https://github.com/kharrison/Property-Animators)
+
 ## 2018.3.5
 [iOS remote push notifications in a nutshell](https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252)
 
