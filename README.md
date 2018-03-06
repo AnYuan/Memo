@@ -3,6 +3,8 @@
 ## 2018.3.6
 [Property Animators](https://github.com/kharrison/Property-Animators)
 
+[facebook-clang-plugins](https://github.com/facebook/facebook-clang-plugins):Plugins to clang-analyzer and clang-frontend
+
 ## 2018.3.5
 [iOS remote push notifications in a nutshell](https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252)
 
