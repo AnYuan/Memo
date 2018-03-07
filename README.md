@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.3.7
+[Sourcery](https://github.com/krzysztofzablocki/Sourcery):Meta-programming for Swift, stop writing boilerplate code. http://merowing.info
+
+
 ## 2018.3.6
 [Property Animators](https://github.com/kharrison/Property-Animators)
 
