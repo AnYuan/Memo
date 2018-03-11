@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.3.11
+[swift compiler stuff](https://github.com/SD10/swift-compiler-stuff): A scraped list of resources/inspiration for learning programming lang implementation in Swift
+
+
 ## 2018.3.9
 [25 React Native Tutorials](https://codeburst.io/25-react-native-tutorials-5b613e3f46ac)
 
