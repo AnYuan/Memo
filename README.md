@@ -1,5 +1,12 @@
 # reading-list
 
+## 2018.3.12
+[iOS安全学习资料汇总](https://github.com/pandazheng/IosHackStudy)
+
+[LNZCollectionLayouts](https://github.com/gringoireDM/LNZCollectionLayouts):A collection of CollectionViewLayout.
+
+[DotzuX](https://github.com/DotzuX/DotzuX): Next Generation of Dotzu https://github.com/remirobert/Dotzu
+
 ## 2018.3.11
 [swift compiler stuff](https://github.com/SD10/swift-compiler-stuff): A scraped list of resources/inspiration for learning programming lang implementation in Swift
 
