@@ -1,5 +1,11 @@
 # reading-list
 
+# 2018.3.27
+[SwiftSoup](https://github.com/scinfu/SwiftSoup): SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS) http://www.scinfu.com/SwiftSoup/
+
+[Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education): 🔥 Learn some Swift
+
+
 ## 2018.3.24
 [Peek](https://github.com/shaps80/Peek):All new design. Inspect your iOS application at runtime. http://shaps.me/peek
 
