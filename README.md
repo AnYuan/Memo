@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.4.2
+[NEKit](https://github.com/zhuhaow/NEKit):A toolkit for Network Extension Framework https://zhuhaow.github.io/NEKit
+
+
 ## 2018.3.28
 [WebKit](https://github.com/WebKit/webkit): Unofficial mirror of the WebKit SVN repository http://www.webkit.org/
 
