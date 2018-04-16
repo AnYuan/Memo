@@ -1,5 +1,8 @@
 # reading-list
 
+## 2018.4.16
+[gopl-zh](https://github.com/golang-china/gopl-zh): 📚 Go语言圣经中文版 https://github.com/golang-china/gopl-zh
+
 ## 2018.4.2
 [NEKit](https://github.com/zhuhaow/NEKit):A toolkit for Network Extension Framework https://zhuhaow.github.io/NEKit
 
