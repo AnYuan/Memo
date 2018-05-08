@@ -1,5 +1,11 @@
 # reading-list
 
+## 2018.5.8
+[swiftenv](https://github.com/kylef/swiftenv): Swift Version Manager https://swiftenv.fuller.li/
+
+[swift-lispkit](https://github.com/objecthub/swift-lispkit):  Interpreter framework for Lisp-based extension and scripting languages on macOS. LispKit is based on the R7RS standard for Scheme. Its compiler generates bytecode for a virtual machine. LispKit is fully implemented in Swift 4.
+
+
 ## 2018.4.24
 [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries): Swift UI libraries, components and animations by @ramotion https://dev.ramotion.com
 
