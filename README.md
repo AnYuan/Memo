@@ -1,5 +1,11 @@
 # reading-list
 
+## 2018.6.11
+[StyledTextKit](https://github.com/GitHawkApp/StyledTextKit): Declarative building and fast rendering attributed string library. http://githawk.com
+
+[whats-new-in-swift-4-2](https://github.com/ole/whats-new-in-swift-4-2):An Xcode playground demonstrating the new features in in Swift 4.2. https://oleb.net/blog/2018/06/whats-n…
+
+
 ## 2018.5.8
 [swiftenv](https://github.com/kylef/swiftenv): Swift Version Manager https://swiftenv.fuller.li/
 
