@@ -3,6 +3,12 @@
 ## 2018.6.16
 [RBBAnimation](https://github.com/robb/RBBAnimation):Block-based animations made easy, comes with easing functions and a CASpringAnimation replacement.
 
+[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit):Showcase your awesome new app features 📱 https://sventiigi.github.io/WhatsNewKit/
+
+
+[SwiftEntryKit](https://github.com/huri000/SwiftEntryKit): SwiftEntryKit is a banner presenter library for iOS. It can be used to easily display pop-ups and notification-like views within your iOS apps.
+
+
 
 ## 2018.6.11
 [StyledTextKit](https://github.com/GitHawkApp/StyledTextKit): Declarative building and fast rendering attributed string library. http://githawk.com
