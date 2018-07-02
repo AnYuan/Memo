@@ -1,5 +1,17 @@
 # reading-list
 
+## 2018.7.2
+[llvm](https://github.com/llvm-mirror/llvm)Mirror of official llvm git repository located at http://llvm.org/git/llvm. Updated every five minutes. http://llvm.org
+
+[LLVMPlayground](https://github.com/modocache/LLVMPlayground):Small sample programs that use LLVM and Clang APIs.
+
+
+[ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel): UILabel replacement with fine-grain appear/disappear animation
+
+[Bartinter](https://github.com/MaximKotliar/Bartinter):Dynamically changes status bar style depending on content behind it
+
+
+
 ## 2018.6.28
 [🔎 iOS 源码探求系列 http://www.desgard.com/iOS-Source-Probe/](https://github.com/Desgard/iOS-Source-Probe)
 
