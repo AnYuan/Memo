@@ -1,5 +1,13 @@
 # reading-list
 
+## 2018.7.15
+[Money](https://github.com/Flight-School/Money):  A precise, type-safe representation of a monetary amount in a given currency. 
+
+[GPUImage3](https://github.com/BradLarson/GPUImage3):
+GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
+
+
+
 ## 2018.7.2
 [llvm](https://github.com/llvm-mirror/llvm)Mirror of official llvm git repository located at http://llvm.org/git/llvm. Updated every five minutes. http://llvm.org
 
