@@ -6,6 +6,8 @@
 [GPUImage3](https://github.com/BradLarson/GPUImage3):
 GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
 
+[fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation): ☔️ A collection of iOS animation repos
+
 
 
 ## 2018.7.2
