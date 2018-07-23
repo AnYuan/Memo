@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.7.23
+[learn regex](https://github.com/zeeshanu/learn-regex): Learn regex the easy way
+
+
 ## 2018.7.15
 [Money](https://github.com/Flight-School/Money):  A precise, type-safe representation of a monetary amount in a given currency. 
 
