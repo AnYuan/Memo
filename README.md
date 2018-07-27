@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.7.27
+[SwiftyMock](https://github.com/stanfy/SwiftyMock): This repository contains helpers that make mocking in Swift much easier
+
+
 ## 2018.7.23
 [learn regex](https://github.com/zeeshanu/learn-regex): Learn regex the easy way
 
