@@ -1,5 +1,13 @@
 # reading-list
 
+## 2018.8.8
+[Bond](https://github.com/DeclarativeHub/Bond):A Swift binding framework
+
+[ReactiveKit](https://github.com/DeclarativeHub/ReactiveKit): A Swift Reactive Programming Kit
+
+[ProcedureKit](https://github.com/ProcedureKit/ProcedureKit): Advanced Operations in Swift http://procedure.kit.run/development/
+
+
 ## 2018.7.27
 [SwiftyMock](https://github.com/stanfy/SwiftyMock): This repository contains helpers that make mocking in Swift much easier
 
