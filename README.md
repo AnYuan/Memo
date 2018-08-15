@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.8.15
+[CollectionKit](https://github.com/SoySauceLab/CollectionKit): Reimagining UICollectionView
+
+
 ## 2018.8.14
 [LayoutFrameworkBenchmark](https://github.com/layoutBox/LayoutFrameworkBenchmark): Benchmark the performances of various Swift layout frameworks (autolayout, UIStackView, PinLayout, LayoutKit, FlexLayout, Yoga, ...)
 
