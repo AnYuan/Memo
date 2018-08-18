@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.8.18
+[SwiftCLI](https://github.com/jakeheis/SwiftCLI):  A powerful framework that can be used to develop a CLI in Swift
+
+
 ## 2018.8.15
 [CollectionKit](https://github.com/SoySauceLab/CollectionKit): Reimagining UICollectionView
 
