@@ -1,5 +1,9 @@
 # reading-list
 
+## 2018.9.3
+[survivingtheappstore](https://github.com/amirrajan/survivingtheappstore): My book on getting to the #1 Spot in the App Store. Buy my games to support me.
+
+
 ## 2018.8.23
 [twig](https://github.com/lukakerr/twig): A modern macOS markdown editor - themeable, tabs, sidebar, github flavored markdown, exporting, latex and more
 
