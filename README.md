@@ -1,5 +1,11 @@
 # reading-list
 
+## 20018.10.15
+[Sizes](https://github.com/marcosgriselli/Sizes): View your app on different device and font sizes
+
+[smoke](https://github.com/amzn/smoke-framework): [Amazon] A light-weight server-side service framework written in the Swift programming language.
+
+
 ## 2018.9.3
 [survivingtheappstore](https://github.com/amirrajan/survivingtheappstore): My book on getting to the #1 Spot in the App Store. Buy my games to support me.
 
