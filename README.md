@@ -1,5 +1,15 @@
 # reading-list
 
+## 2018.10.29
+
+[DropdownTitleView](https://github.com/GitHawkApp/DropdownTitleView): A UINavigationItem.titleView compatible UIControl with a title, subtitle, and dropdown.
+
+[Reflection](https://github.com/Zewo/Reflection): Advanced Swift reflection including dynamic construction of types.
+
+
+[UberSignature](https://github.com/uber/UberSignature): Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.
+
+
 ## 20018.10.15
 [Sizes](https://github.com/marcosgriselli/Sizes): View your app on different device and font sizes
 
