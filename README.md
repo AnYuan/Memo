@@ -11,6 +11,7 @@
 
 [flipper](https://github.com/facebook/flipper): A desktop debugging platform for mobile developers. https://fbflipper.com/
 
+[Motion Design for iOS](https://github.com/Cloudox/Motion-Design-for-iOS): 翻译自《Motion Design for iOS》，讲解iOS动画设计指南
 
 
 ## 20018.10.15
