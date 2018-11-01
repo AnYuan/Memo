@@ -1,5 +1,15 @@
 # reading-list
 
+## 2018.11.02
+[Pixel](https://github.com/muukii/Pixel):🎨🖼 An image editor and engine using CoreImage
+
+[Filterpedia](https://github.com/FlexMonkey/Filterpedia): Core Image Filter Explorer & Showcase http://flexmonkey.blogspot.co.uk/2015…
+
+[cardslider](https://github.com/Ramotion/cardslider)::octocat: 🃏 Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions. https://dev.ramotion.com
+
+[xcodeproj](https://github.com/tuist/xcodeproj): 📝 Read, update and write your Xcode projects https://tuist.github.io/xcodeproj/
+
+
 ## 2018.10.29
 
 [DropdownTitleView](https://github.com/GitHawkApp/DropdownTitleView): A UINavigationItem.titleView compatible UIControl with a title, subtitle, and dropdown.
