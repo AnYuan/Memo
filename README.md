@@ -1,5 +1,15 @@
 # reading-list
 
+## 2018.11.04
+[IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding): IHKeyboardAvoiding is an elegant solution for keeping any UIView visible when the keyboard is being shown - no UIScrollView required!
+
+[tuist](https://github.com/tuist/tuist): 🚀 Create, maintain, and interact with Xcode projects at scale https://tuist.github.io/tuist/
+
+[Crayon](https://github.com/jianstm/Crayon): 🖍 Expressive styling on terminal string. (chalk for swift)
+
+[PathKit](https://github.com/kylef/PathKit):Effortless path operations in Swift
+
+
 ## 2018.11.03
 [AloeStackView](https://github.com/airbnb/AloeStackView):A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.
 
