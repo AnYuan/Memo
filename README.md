@@ -1,5 +1,13 @@
 # reading-list
 
+## 2018.11.06
+
+[NativeScript](https://github.com/NativeScript/NativeScript): NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android. https://www.nativescript.org
+
+[MoreCodable](https://github.com/tattn/MoreCodable): MoreCodable expands the possibilities of `Codable`.
+
+
+
 ## 2018.11.04
 [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding): IHKeyboardAvoiding is an elegant solution for keeping any UIView visible when the keyboard is being shown - no UIScrollView required!
 
