@@ -6,6 +6,7 @@
 
 [MoreCodable](https://github.com/tattn/MoreCodable): MoreCodable expands the possibilities of `Codable`.
 
+[IPASearch](https://github.com/ytx0574/IPASearch): Search and download decrypted IPA file from 3rd-party App Store.
 
 
 ## 2018.11.04
