@@ -1,5 +1,12 @@
 # reading-list
 
+## 2018.11.14
+
+[ReactiveFeedback](https://github.com/Babylonpartners/ReactiveFeedback): Unidirectional reactive architecture
+
+[RxFeedback.swift](https://github.com/NoTests/RxFeedback.swift): Architecture for RxSwift
+
+
 ## 2018.11.06
 
 [NativeScript](https://github.com/NativeScript/NativeScript): NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android. https://www.nativescript.org
