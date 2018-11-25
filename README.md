@@ -3,6 +3,9 @@
 ## 2018.11.25
 [line-sdk-ios-swift](https://github.com/line/line-sdk-ios-swift): Provides a modern way of implementing LINE APIs https://developers.line.biz/
 
+[Komondor](https://github.com/orta/Komondor): Git Hooks for Swift projects 🐩
+
+
 
 ## 2018.11.15
 
