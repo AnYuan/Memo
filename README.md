@@ -1,5 +1,13 @@
 # reading-list
 
+## 2018.12.13
+[SwiftRewriter](https://github.com/inamiy/SwiftRewriter): Swift code formatter using SwiftSyntax.
+
+[xcbeautify](https://github.com/thii/xcbeautify): A little beautifier tool for xcodebuild
+
+[BTree](https://github.com/attaswift/BTree): Fast sorted collections for Swift using in-memory B-trees
+
+
 ## 2018.12.12
 [DoramonKit](https://github.com/didi/DoraemonKit): A full-featured iOS development assistant. You deserve it.
 
