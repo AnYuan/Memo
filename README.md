@@ -1,5 +1,10 @@
 # reading-list
 
+## 2018.12.18
+
+[SwiftHub](https://github.com/khoren93/SwiftHub): Github iOS client written in RxSwift and MVVM clean architecture
+
+
 ## 2018.12.13
 [SwiftRewriter](https://github.com/inamiy/SwiftRewriter): Swift code formatter using SwiftSyntax.
 
