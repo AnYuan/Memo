@@ -1,5 +1,12 @@
 # reading-list
 
+## 2018.12.20
+
+[MagazineLayout](https://github.com/airbnb/MagazineLayout): A collection view layout capable of laying out views in vertically scrolling grids and lists.
+
+[SwifterSwift](https://github.com/SwifterSwift/SwifterSwift): A handy collection of more than 500 native Swift extensions to boost your productivity. https://swifterswift.com
+
+
 ## 2018.12.19
 
 [Graver](https://github.com/Meituan-Dianping/Graver): Graver 是一款高效的 UI 渲染框架，它以更低的资源消耗来构建十分流畅的 UI 界面。Graver 独创性的采用了基于绘制的视觉元素分解方式来构建界面，得益于此，该框架能让 UI 渲染过程变得更加简单、灵活。https://cocoapods.org/pods/Graver
