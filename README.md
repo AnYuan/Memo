@@ -1,5 +1,11 @@
 # reading-list
 
+## 2018.12.24
+
+[Connectivity](https://github.com/rwbutler/Connectivity): Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access. https://medium.com/@rwbutler/solving-…
+
+
+
 ## 2018.12.20
 
 [MagazineLayout](https://github.com/airbnb/MagazineLayout): A collection view layout capable of laying out views in vertically scrolling grids and lists.
