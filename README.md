@@ -1,5 +1,11 @@
 # reading-list
 
+## 2018.12.30
+[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes):吴恩达老师的机器学习课程个人笔记
+
+[danger](https://github.com/danger/swift):⚠️ Stop saying "you forgot to …" in code review in Swift http://danger.systems/js/swift.html
+
+
 ## 2018.12.24
 
 [Connectivity](https://github.com/rwbutler/Connectivity): Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access. https://medium.com/@rwbutler/solving-…
