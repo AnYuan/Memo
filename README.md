@@ -1,5 +1,13 @@
 # reading list
 
+## 2019.1.7
+
+[Menu](https://github.com/TwoLivesLeft/Menu): The iOS Menu
+
+[Coordinator](https://github.com/radianttap/Coordinator): Implementation of Coordinators app design pattern.
+
+[Connectivity](https://github.com/rwbutler/Connectivity): Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
+
 ## 2019.1.4
 
 [IINA](https://github.com/iina/iina): The modern video player for macOS. https://iina.io
