@@ -8,6 +8,9 @@
 
 [Connectivity](https://github.com/rwbutler/Connectivity): Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 
+[Starscream](https://github.com/daltoniam/Starscream): Websockets in swift for iOS and OSX
+
+
 ## 2019.1.4
 
 [IINA](https://github.com/iina/iina): The modern video player for macOS. https://iina.io
