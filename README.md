@@ -4,6 +4,10 @@
 
 [iWeChat](https://github.com/lefex/iWeChat): 我们一起来还原微信。希望通过 iWeChat 这个项目能过勾勒出微信的设计，使用到的技术手段等
 
+[Learning-SICP](https://github.com/DeathKing/Learning-SICP): MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。 https://learningsicp.github.io
+
+[Modern Code Review: A case study at Google](https://sback.it/publications/icse2018seip.pdf)
+
 
 ## 2019.1.7
 
