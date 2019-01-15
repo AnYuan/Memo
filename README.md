@@ -1,5 +1,12 @@
 # reading list
 
+## 2019.1.15
+
+[swift-sh](https://github.com/mxcl/swift-sh): Easily import third-party dependencies in your Swift scripts
+
+[Bagel](https://github.com/yagiz/Bagel): a little native network debugging tool for iOS
+
+
 ## 2019.1.9
 
 [iWeChat](https://github.com/lefex/iWeChat): 我们一起来还原微信。希望通过 iWeChat 这个项目能过勾勒出微信的设计，使用到的技术手段等
