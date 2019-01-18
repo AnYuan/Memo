@@ -1,5 +1,20 @@
 # reading list
 
+## 2019.1.18
+
+[MarkdownKit](https://github.com/bmoliveira/MarkdownKit): A simple and customizable Markdown Parser for Swift
+
+[Path.swift](https://github.com/mxcl/Path.swift): Delightful, robust file-pathing functions
+
+[Instructions](https://github.com/ephread/Instructions): Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.
+
+[Machine-Learning-Flappy-Bird](https://github.com/ssusnic/Machine-Learning-Flappy-Bird): Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm http://www.askforgametask.com/tutoria…
+
+
+[podcast](https://github.com/SwiftCommunityPodcast/podcast): About For and By the Swift Community https://www.swiftcommunitypodcast.org
+
+
+
 ## 2019.1.15
 
 [swift-sh](https://github.com/mxcl/swift-sh): Easily import third-party dependencies in your Swift scripts
