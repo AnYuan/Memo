@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.1.22
+
+[Aiolos](https://github.com/IdeasOnCanvas/Aiolos): A floating panel for your iOS Apps https://mindnode.com
+
+
 ## 2019.1.18
 
 [MarkdownKit](https://github.com/bmoliveira/MarkdownKit): A simple and customizable Markdown Parser for Swift
