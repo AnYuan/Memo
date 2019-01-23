@@ -1,5 +1,11 @@
 # reading list
 
+## 2019.1.23
+
+[Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa
+
+
+
 ## 2019.1.22
 
 [Aiolos](https://github.com/IdeasOnCanvas/Aiolos): A floating panel for your iOS Apps https://mindnode.com
