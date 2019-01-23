@@ -1,5 +1,12 @@
 # reading list
 
+## 2019.1.24
+
+[Panels](https://github.com/antoniocasero/Panels): Panels is a framework to easily add sliding panels to your application
+
+[SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver): Convenient logging during development & release in Swift 2, 3 & 4 https://swiftybeaver.com
+
+
 ## 2019.1.23
 
 [Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa
