@@ -6,6 +6,9 @@
 
 [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver): Convenient logging during development & release in Swift 2, 3 & 4 https://swiftybeaver.com
 
+[LLVMSwift](https://github.com/llvm-swift/LLVMSwift): A Swift wrapper for the LLVM C API (version 7.0)
+
+
 
 ## 2019.1.23
 
