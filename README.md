@@ -1,5 +1,14 @@
 # reading list
 
+## 2019.1.25
+
+[clashX](https://github.com/yichengchen/clashX): A rule based custom proxy with GUI for Mac base on clash.
+
+[spotify iOS SDK](https://github.com/spotify/ios-sdk): Spotify SDK for iOS https://developer.spotify.com/documen…
+
+[zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm http://www.zstd.net
+
+
 ## 2019.1.24
 
 [Panels](https://github.com/antoniocasero/Panels): Panels is a framework to easily add sliding panels to your application
