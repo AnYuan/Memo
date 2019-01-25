@@ -8,6 +8,9 @@
 
 [zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm http://www.zstd.net
 
+[awesome RxSwift](https://github.com/LeoMobileDeveloper/awesome-rxswift): An "awesome" type curated list of RxSwift library and learning material
+
+
 
 ## 2019.1.24
 
