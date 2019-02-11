@@ -1,5 +1,17 @@
 # reading list
 
+## 2019.2.11
+
+[learning rust](https://github.com/learning-rust/site): The source code of learning-rust.github.io https://learning-rust.github.io/
+
+[Tabman](https://github.com/uias/Tabman): ™️ A powerful paging view controller with interactive indicator bars https://uias.github.io/Tabman
+
+[TextKitExamples](https://github.com/kishikawakatsumi/TextKitExamples): TextKit examples for try! Swift NYC 2016
+
+[APIKit](https://github.com/ishkawa/APIKit): Type-safe networking abstraction layer that associates request type with response type.
+
+
+
 ## 2019.1.25
 
 [clashX](https://github.com/yichengchen/clashX): A rule based custom proxy with GUI for Mac base on clash.
