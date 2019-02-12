@@ -1,6 +1,14 @@
 # reading list
 
 
+## 2019.2.12
+
+[Tiercel](https://github.com/Danie1s/Tiercel): 简单易用且功能丰富的纯Swift下载框架
+
+[@dynamicCallable: Unix Tools as Swift Functions](http://www.alwaysrightinstitute.com/swift-dynamic-callable/)
+
+
+
 ## 2019.2.11
 
 [learning rust](https://github.com/learning-rust/site): The source code of learning-rust.github.io https://learning-rust.github.io/
