@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.2.18
+
+[mit deep learning](https://github.com/lexfridman/mit-deep-learning): Tutorials, assignments, and competitions for MIT Deep Learning related courses. https://deeplearning.mit.edu
+
+
 ## 2019.2.17
 
 [bubble-icon-tabbar](https://github.com/Cuberto/bubble-icon-tabbar)
