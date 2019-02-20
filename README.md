@@ -1,5 +1,11 @@
 # reading list
 
+## 2019.2.20
+
+[SwiftAlgorithms](https://github.com/thexande/SwiftAlgorithms):🤓 An open source app for viewing algorithms and data structures implemented in Swift.
+
+[iOS macOS performance](https://github.com/mpw/iOS-macOS-performance)
+
 ## 2019.2.18
 
 [mit deep learning](https://github.com/lexfridman/mit-deep-learning): Tutorials, assignments, and competitions for MIT Deep Learning related courses. https://deeplearning.mit.edu
