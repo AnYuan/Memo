@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.3.13
+
+[swift-log](https://github.com/apple/swift-log)
+
+
 ## 2019.3.8
 
 [ghidra](https://github.com/NationalSecurityAgency/ghidra): Ghidra is a software reverse engineering (SRE) framework https://www.nsa.gov/ghidra
