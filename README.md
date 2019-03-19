@@ -1,5 +1,12 @@
 # reading list
 
+## 2019.3.19
+
+[PanModal](https://github.com/slackhq/PanModal): PanModal is an elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
+
+[swift-gen](https://github.com/pointfreeco/swift-gen): 🎱 Composable, transformable, controllable randomness. https://www.pointfree.co/episodes/ep4…
+
+
 ## 2019.3.13
 
 [swift-log](https://github.com/apple/swift-log)
