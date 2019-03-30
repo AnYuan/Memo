@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.3.29
+
+[cocoapods-binary](https://github.com/leavez/cocoapods-binary): integrate pods in form of prebuilt frameworks conveniently, reducing compile time
+
+
 ## 2019.3.28
 
 [SwiftHN](https://github.com/Dimillian/SwiftHN)
