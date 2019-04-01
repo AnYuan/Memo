@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.4.2
+
+[LearnMetal](https://github.com/loyinglin/LearnMetal): Metal 入门教程
+
+
 ## 2019.4.1
 
 [RoughSwift](https://github.com/onmyway133/RoughSwift): 🎃Create hand-drawn, sketchy, comic shape in Swift https://onmyway133.github.io/
