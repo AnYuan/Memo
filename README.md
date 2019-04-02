@@ -6,6 +6,9 @@
 
 [RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps): A completely free, open source and online course about Reverse Engineering iOS Applications.
 
+[socket.io](https://github.com/socketio/socket.io-client-swift): Socket.IO-client for iOS/OS X.
+
+
 
 
 ## 2019.4.1
