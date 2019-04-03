@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.4.4
+
+[HandySwift](https://github.com/Flinesoft/HandySwift): Handy Swift features that didn't make it into the Swift standard library.
+
+
 ## 2019.4.3
 
 [Tentacle](https://github.com/mdiep/Tentacle): A Swift framework for the GitHub API
