@@ -4,6 +4,9 @@
 
 [HandySwift](https://github.com/Flinesoft/HandySwift): Handy Swift features that didn't make it into the Swift standard library.
 
+[ReactiveKit](https://github.com/DeclarativeHub/ReactiveKit): A Swift Reactive Programming Kit
+
+
 
 ## 2019.4.3
 
