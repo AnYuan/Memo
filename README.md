@@ -1,5 +1,12 @@
 # reading list
 
+## 2019.4.8
+
+[swift-info](https://github.com/danielmartin/swift-info): Curated Swift 5 documentation and reference in GNU Info format, with cross-references and keyword/topic indices.
+
+[Sweep](https://github.com/JohnSundell/Sweep): Fast and powerful Swift string scanning made simple
+
+
 ## 2019.4.4
 
 [HandySwift](https://github.com/Flinesoft/HandySwift): Handy Swift features that didn't make it into the Swift standard library.
