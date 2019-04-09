@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.4.9
+
+[Codextended](https://github.com/JohnSundell/Codextended): Extensions giving Swift's Codable API type inference super powers 🦸‍♂️🦹‍♀️
+
+
 ## 2019.4.8
 
 [swift-info](https://github.com/danielmartin/swift-info): Curated Swift 5 documentation and reference in GNU Info format, with cross-references and keyword/topic indices.
