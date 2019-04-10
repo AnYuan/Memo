@@ -1,5 +1,12 @@
 # reading list
 
+## 2019.4.11
+
+[RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps): A completely free, open source and online course about Reverse Engineering iOS Applications.
+
+[sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
+
+
 ## 2019.4.9
 
 [Codextended](https://github.com/JohnSundell/Codextended): Extensions giving Swift's Codable API type inference super powers 🦸‍♂️🦹‍♀️
