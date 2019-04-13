@@ -1,5 +1,13 @@
 # reading list
 
+## 2019.4.13
+
+[xg2xg](https://github.com/jhuangtw-dev/xg2xg): by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+
+
+[awesome remote job](https://github.com/lukasz-madon/awesome-remote-job): A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+
+
 ## 2019.4.11
 
 [RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps): A completely free, open source and online course about Reverse Engineering iOS Applications.
