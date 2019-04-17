@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.4.18
+
+[BOLT](https://github.com/facebookincubator/BOLT): Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
+
+
 ## 2019.4.13
 
 [xg2xg](https://github.com/jhuangtw-dev/xg2xg): by ex-googlers, for ex-googlers - a lookup table of similar tech & services
