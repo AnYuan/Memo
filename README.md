@@ -4,6 +4,8 @@
 
 [xcconfig guide](https://pewpewthespells.com/blog/xcconfig_guide.html)
 
+[Xcode Project File Format](http://www.monobjc.net/xcode-project-file-format.html)
+
 ## 2019.4.18
 
 [BOLT](https://github.com/facebookincubator/BOLT): Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
