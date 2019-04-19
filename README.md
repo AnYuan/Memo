@@ -1,5 +1,9 @@
 # reading list
 
+## 2019.4.19
+
+[xcconfig guide](https://pewpewthespells.com/blog/xcconfig_guide.html)
+
 ## 2019.4.18
 
 [BOLT](https://github.com/facebookincubator/BOLT): Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
