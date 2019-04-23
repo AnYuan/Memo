@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.4.24
+
+[Beak](https://github.com/yonaskolb/Beak): A command line interface for your Swift scripts
+
+
 ## 2019.4.23
 
 [Xniffer](https://github.com/xmartlabs/Xniffer): A swift network profiler built on top of URLSession.
