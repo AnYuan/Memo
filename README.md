@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.4.28
+
+[JavaScriptCore-iOS](https://github.com/phoboslab/JavaScriptCore-iOS): Apple's JavaScript Engine, with modified project files for iOS
+
+
 ## 2019.4.24
 
 [Beak](https://github.com/yonaskolb/Beak): A command line interface for your Swift scripts
