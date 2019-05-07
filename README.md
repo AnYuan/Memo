@@ -4,6 +4,8 @@
 
 [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger): A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 
+[idb](https://github.com/facebook/idb): idb is a flexible command line interface for automating iOS simulators and devices
+
 
 ## 2019.4.28
 
