@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.5.9
+
+[SwiftHub](https://github.com/khoren93/SwiftHub): GitHub iOS client in RxSwift and MVVM-C clean architecture
+
+
 ## 2019.5.7
 
 [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger): A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
