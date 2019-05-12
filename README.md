@@ -1,5 +1,12 @@
 # reading list
 
+## 2019.5.12
+
+[go101](https://github.com/go101/go101): An online book focusing on Go syntax/semantics. https://go101.org
+
+[A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+
+
 ## 2019.5.9
 
 [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub iOS client in RxSwift and MVVM-C clean architecture
