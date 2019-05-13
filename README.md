@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.5.13
+
+[awesome-emacs](https://github.com/emacs-tw/awesome-emacs): A community driven list of useful Emacs packages, libraries and others.
+
+
 ## 2019.5.12
 
 [go101](https://github.com/go101/go101): An online book focusing on Go syntax/semantics. https://go101.org
