@@ -1,5 +1,8 @@
 # reading list
 
+## 2019.5.22
+
+[OSG-TranslationTeam](https://github.com/r0ysue/OSG-TranslationTeam): 看雪iOS安全小组的翻译团队作品集合，如有勘误，欢迎斧正！
 
 
 ## 2019.5.21
