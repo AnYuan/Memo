@@ -1,5 +1,12 @@
 # reading list
 
+## 2019.6.12
+
+[SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet): SwiftUI Cheat Sheet
+
+[About-SwiftUI](https://github.com/Juanpe/About-SwiftUI): Gathering all info published, both by Apple and by others, about new framework SwiftUI. https://juanpe.github.io/About-SwiftUI
+
+
 ## 2019.6.7
 
 [Harvest](https://github.com/inamiy/Harvest): 🌾 Harvest: Apple's Combine.framework + State Machine, inspired by Redux and Elm.
