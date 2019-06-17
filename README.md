@@ -4,6 +4,8 @@
 
 [XCLogParser](https://github.com/spotify/XCLogParser): Tool to parse the SLF serialization format used by Xcode and xcodebuild to store its Build and Test logs (xcactivitylog).
 
+[WWDC 2019 - The Things You May Have Missed](https://patrickbalestra.com/blog/2019/06/07/wwdc-2019-the-things-you-may-have-missed.html)
+
 
 ## 2019.6.14
 
