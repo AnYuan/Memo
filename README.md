@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.6.17
+
+[XCLogParser](https://github.com/spotify/XCLogParser): Tool to parse the SLF serialization format used by Xcode and xcodebuild to store its Build and Test logs (xcactivitylog).
+
+
 ## 2019.6.14
 
 [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): SwiftUI & Combine app using MovieDB API
