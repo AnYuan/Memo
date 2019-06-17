@@ -6,6 +6,9 @@
 
 [WWDC 2019 - The Things You May Have Missed](https://patrickbalestra.com/blog/2019/06/07/wwdc-2019-the-things-you-may-have-missed.html)
 
+[WWDC](https://github.com/Blackjacx/WWDC): You don't have the time to watch all the WWDC session videos yourself? No problem I extracted the gist for you 🥳
+
+
 
 ## 2019.6.14
 
