@@ -1,5 +1,11 @@
 # reading list
 
+## 2019.7.5
+
+[learn regex](https://github.com/ziishaned/learn-regex): Learn regex the easy way
+
+[Using Combine](https://heckj.github.io/swiftui-notes/)
+
 ## 2019.6.17
 
 [XCLogParser](https://github.com/spotify/XCLogParser): Tool to parse the SLF serialization format used by Xcode and xcodebuild to store its Build and Test logs (xcactivitylog).
