@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.7.19
+
+[cocoapods-bin](https://github.com/tripleCC/cocoapods-bin): CocoaPods 组件二进制化辅助插件（使用双私有源）
+
+
 ## 2019.7.5
 
 [learn regex](https://github.com/ziishaned/learn-regex): Learn regex the easy way
