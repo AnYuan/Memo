@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.7.24
+
+[programming talks](https://github.com/hellerve/programming-talks): Awesome & interesting talks about programming
+
+
 ## 2019.7.22
 
 [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection): iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。
