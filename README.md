@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.8.21
+
+[ZippyJSON](https://github.com/michaeleisel/ZippyJSON): A much faster version of JSONDecoder
+
+
 ## 2019.7.24
 
 [programming talks](https://github.com/hellerve/programming-talks): Awesome & interesting talks about programming
