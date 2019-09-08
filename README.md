@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.9.8
+
+[eng-practices](https://github.com/google/eng-practices): Google's Engineering Practices documentation https://google.github.io/eng-practices/
+
+
 ## 2019.8.21
 
 [ZippyJSON](https://github.com/michaeleisel/ZippyJSON): A much faster version of JSONDecoder
