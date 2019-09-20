@@ -1,5 +1,10 @@
 # reading list
 
+## 2019.9.20
+
+[chromium](https://github.com/chromium/chromium): The official GitHub mirror of the Chromium source https://chromium.googlesource.com/chr…
+
+
 ## 2019.9.8
 
 [eng-practices](https://github.com/google/eng-practices): Google's Engineering Practices documentation https://google.github.io/eng-practices/
