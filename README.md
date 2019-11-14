@@ -1,5 +1,11 @@
 # reading list
 
+
+## 2019.11.14
+
+[SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI): A demo implementation of SwiftUI for the Web
+
+
 ## 2019.11.04
 
 [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid): A waterfall grid layout view for SwiftUI.
