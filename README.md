@@ -1,5 +1,9 @@
 # reading list
 
+## 2019.11.21
+
+[CharView](https://github.com/AppPear/ChartView): ChartView made in SwiftUI
+
 
 ## 2019.11.14
 
