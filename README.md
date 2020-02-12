@@ -1,5 +1,10 @@
 # reading list
 
+## 2020.02.12
+
+[LocalizedStringKit](https://github.com/microsoft/LocalizedStringKit): Generate .strings files directly from your code
+
+
 ## 2020.02.04
 
 [GDLiveStreaming](https://github.com/goodow/GDLiveStreaming): Live audio and video manipulation pipeline https://www.youtube.com/channel/UCdjn…
