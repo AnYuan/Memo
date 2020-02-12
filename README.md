@@ -6,6 +6,10 @@
 
 [import codesign certs](https://github.com/Apple-Actions/import-codesign-certs): GitHub Action for Importing Code-signing Certificates into a Keychain
 
+[PINRemoteImage](https://github.com/pinterest/PINRemoteImage): A thread safe, performant, feature rich image fetcher
+
+[iOS Debug Hacks](https://github.com/aozhimin/iOS-Debug-Hacks/blob/master/README_CN.md): 🎯 Advanced debugging skills used in the iOS project development process, involves the dynamic debugging, static analysis and decompile of third-party libraries. iOS 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域
+
 
 ## 2020.02.04
 
