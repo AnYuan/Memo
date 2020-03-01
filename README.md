@@ -1,5 +1,9 @@
 # reading list
 
+## 2020.03.01
+
+[Xcode Build Settings](https://xcodebuildsettings.com/)
+
 ## 2020.02.23
 
 [UTM](https://github.com/utmapp/UTM): Virtual machines for iOS
