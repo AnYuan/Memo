@@ -1,5 +1,10 @@
 # reading list
 
+## 2020.03.06
+
+[PodBuilder](https://github.com/Subito-it/PodBuilder): A ruby script to precompile CocoaPods pods
+
+
 ## 2020.03.05
 
 [MultipeerKit](https://github.com/insidegui/MultipeerKit):MultipeerConnectivity + Codable = ❤️
