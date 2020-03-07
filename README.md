@@ -1,5 +1,10 @@
 # reading list
 
+## 2020.03.07
+
+[ControlRoom](https://github.com/twostraws/ControlRoom): A macOS app to control the Xcode Simulator.
+
+
 ## 2020.03.06
 
 [PodBuilder](https://github.com/Subito-it/PodBuilder): A ruby script to precompile CocoaPods pods
