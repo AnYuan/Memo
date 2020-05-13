@@ -1,5 +1,11 @@
 # reading list
 
+## 2020.05.13
+
+[30dayMakeOS](https://github.com/yourtion/30dayMakeOS): 《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程 https://github.com/yourtion/YOS
+
+
+
 ## 2020.03.28
 
 [Puma](https://github.com/pumaswift/Puma): 🐯 Build utilities in pure Swift
