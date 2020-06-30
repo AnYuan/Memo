@@ -1,5 +1,9 @@
 # reading list
 
+## 2020.06.30
+
+[WWDC Community](https://github.com/twostraws/wwdc)
+
 ## 2020.06.04
 
 [Canvas](https://github.com/soffes/Canvas): Hacking on the remains of Canvas. Nothing to see yet.
