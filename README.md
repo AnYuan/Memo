@@ -1,5 +1,9 @@
 # reading list
 
+## 2020.07.12
+
+[SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit): A SwiftUI system components and interactions demo app 
+
 ## 2020.06.30
 
 [WWDC Community](https://github.com/twostraws/wwdc)
