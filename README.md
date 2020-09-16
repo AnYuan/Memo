@@ -1,5 +1,9 @@
 # reading list
 
+## 2020.09.16
+
+[LTResign](https://github.com/gltwy/LTResign): iOS一键重签名，轻松制作iOS上任意应用或游戏分身、以及Hook后重签名安装到非越狱或越狱设备等
+
 ## 2020.07.12
 
 [SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit): A SwiftUI system components and interactions demo app 
