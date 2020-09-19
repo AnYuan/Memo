@@ -1,5 +1,9 @@
 # reading list
 
+## 2020.09.19
+
+[linux-insides-zh](https://github.com/MintCN/linux-insides-zh):  Linux 内核揭秘 https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html
+
 ## 2020.09.16
 
 [LTResign](https://github.com/gltwy/LTResign): iOS一键重签名，轻松制作iOS上任意应用或游戏分身、以及Hook后重签名安装到非越狱或越狱设备等
