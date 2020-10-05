@@ -1,5 +1,9 @@
 # reading list
 
+## 2020.10.05
+
+[swift-atomics](https://github.com/apple/swift-atomics): This package implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values. The goal is to enable intrepid developers to start building synchronization constructs directly in Swift.
+
 ## 2020.09.19
 
 [linux-insides-zh](https://github.com/MintCN/linux-insides-zh):  Linux 内核揭秘 https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html
