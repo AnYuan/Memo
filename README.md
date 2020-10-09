@@ -1,5 +1,9 @@
 # reading list
 
+## 2020.10.09
+
+[swift-algorithms](https://github.com/apple/swift-algorithms): Swift Algorithms is an open-source package of sequence and collection algorithms, along with their related types.
+
 ## 2020.10.05
 
 [swift-atomics](https://github.com/apple/swift-atomics): This package implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values. The goal is to enable intrepid developers to start building synchronization constructs directly in Swift.
