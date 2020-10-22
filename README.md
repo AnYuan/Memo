@@ -1,5 +1,10 @@
 # reading list
 
+## 2020.10.22
+
+[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+[Swift 中使用 Option Pattern 改善可选项的 API 设计 ](https://xiaozhuanlan.com/topic/6143270985)
+
 ## 2020.10.09
 
 [swift-algorithms](https://github.com/apple/swift-algorithms): Swift Algorithms is an open-source package of sequence and collection algorithms, along with their related types.
