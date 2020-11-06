@@ -1,5 +1,9 @@
 # reading list
 
+## 2020.11.06
+
+[set-simulator-location](https://github.com/lyft/set-simulator-location.git): CLI for setting location in the iOS simulator
+
 ## 2020.10.22
 
 [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
