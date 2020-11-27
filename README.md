@@ -1,5 +1,11 @@
 # reading list
 
+## 2020.11.27
+
+[blog_os](https://github.com/phil-opp/blog_os): Writing an OS in Rust
+
+
+
 ## 2020.11.06
 
 [set-simulator-location](https://github.com/lyft/set-simulator-location.git): CLI for setting location in the iOS simulator
