@@ -1,5 +1,9 @@
 # reading list
 
+## 2020.12.01
+
+[eul](https://github.com/gao-sun/eul): https://github.com/gao-sun/eul
+
 ## 2020.11.27
 
 [blog_os](https://github.com/phil-opp/blog_os): Writing an OS in Rust
