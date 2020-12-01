@@ -2,7 +2,7 @@
 
 ## 2020.12.01
 
-[eul](https://github.com/gao-sun/eul): https://github.com/gao-sun/eul
+[eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI. 
 
 ## 2020.11.27
 
