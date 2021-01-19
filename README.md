@@ -1,6 +1,9 @@
 # reading list
 
 
+## 2021.01.19
+[dsdump](https://github.com/DerekSelander/dsdump): An improved nm + Objective-C & Swift class-dump
+
 ## 2021.01.15
 [RedditOS](https://github.com/Dimillian/RedditOS): a SwiftUI Reddit client for macOS Big Sur
 
