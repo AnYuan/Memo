@@ -1,5 +1,8 @@
 # reading list
 
+## 2021.01.26
+[TwitterTextEditor](https://github.com/twitter/TwitterTextEditor): A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
+
 
 ## 2021.01.19
 [dsdump](https://github.com/DerekSelander/dsdump): An improved nm + Objective-C & Swift class-dump
