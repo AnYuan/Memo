@@ -1,5 +1,10 @@
 # reading list
 
+## 2021.01.28
+[Algorithm Design Manual Programs](https://github.com/SkienaBooks/Algorithm-Design-Manual-Programs)
+
+[Algorithm Design Manual Programs V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+
 ## 2021.01.26
 [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor): A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 
