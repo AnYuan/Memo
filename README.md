@@ -1,5 +1,9 @@
 # reading list
 
+## 2021.02.03
+
+[What’s new in Swift 5.4?](https://github.com/twostraws/whats-new-in-swift-5-4)
+
 ## 2021.01.29
 [SwiftUIKitView](https://github.com/AvdLee/SwiftUIKitView): Easily use UIKit views in your SwiftUI applications. Create Xcode Previews for UIView elements 
 
