@@ -1,5 +1,9 @@
 # reading list
 
+## 2021.02.04
+
+[build-your-own-x](https://github.com/danistefanovic/build-your-own-x): 🤓 Build your own (insert technology here) 
+
 ## 2021.02.03
 
 [What’s new in Swift 5.4?](https://github.com/twostraws/whats-new-in-swift-5-4)
