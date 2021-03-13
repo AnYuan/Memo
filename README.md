@@ -1,5 +1,8 @@
 # reading list
 
+## 2021.03.13
+[MacSymbolicator](https://github.com/inket/MacSymbolicator)Symbolicating macOS/iOS crash reports, easily.
+
 ## 2021.03.03
 
 [Mobile Native Foundation](https://github.com/MobileNativeFoundation/discussions/discussions)
