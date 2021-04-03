@@ -1,7 +1,10 @@
 # reading list
 
+## 2021.04.03
+[iOS Crash Dump Analysis Book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)
+
 ## 2021.03.13
-[MacSymbolicator](https://github.com/inket/MacSymbolicator)Symbolicating macOS/iOS crash reports, easily.
+[MacSymbolicator](https://github.com/inket/MacSymbolicator) Symbolicating macOS/iOS crash reports, easily.
 
 ## 2021.03.03
 
