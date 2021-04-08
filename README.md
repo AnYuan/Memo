@@ -1,5 +1,14 @@
 # reading list
 
+## 2021.04.08
+[TIL](https://github.com/jessesquires/TIL): Things I've learned and/or things I want to remember. Notes, links, advice, example code, etc.
+
+[async-http-client](https://github.com/swift-server/async-http-client): HTTP client library built on SwiftNIO
+
+[AttributedString](https://github.com/lixiang1994/AttributedString): 基于Swift插值方式优雅的构建富文本, 支持点击长按事件, 支持不同类型过滤, 支持自定义视图等.
+
+
+
 ## 2021.04.03
 [iOS Crash Dump Analysis Book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)
 
