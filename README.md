@@ -1,5 +1,8 @@
 # reading list
 
+## 2021.04.09
+[swift-tips](https://github.com/vincent-pradeilles/swift-tips): A collection useful tips for the Swift language
+
 ## 2021.04.08
 [TIL](https://github.com/jessesquires/TIL): Things I've learned and/or things I want to remember. Notes, links, advice, example code, etc.
 
