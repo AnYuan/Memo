@@ -1,5 +1,12 @@
 # reading list
 
+## 2021.04.25
+
+[Improving the UI of generics](https://forums.swift.org/t/improving-the-ui-of-generics/22814)
+
+[SwiftUI In Production](https://pspdfkit.com/blog/2021/swiftui-in-production/)
+
+
 ## 2021.04.09
 [swift-tips](https://github.com/vincent-pradeilles/swift-tips): A collection useful tips for the Swift language
 
