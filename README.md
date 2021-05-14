@@ -1,5 +1,10 @@
 # reading list
 
+## 2021.05.14
+
+[async-http-client](https://github.com/swift-server/async-http-client): HTTP client library built on SwiftNIO
+
+
 ## 2021.04.28
 
 [awesome-function-builders](https://github.com/carson-katri/awesome-function-builders): A list of cool DSLs made with Swift 5.1’s @functionBuilder; from swift 5.4, we could use [result builder](https://github.com/apple/swift-evolution/blob/main/proposals/0289-result-builders.md).
