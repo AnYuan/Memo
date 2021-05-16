@@ -1,5 +1,9 @@
 # reading list
 
+## 2021.05.17
+
+[TerminalUI](https://github.com/chriseidhof/TerminalUI): related [Swift Talks](https://talk.objc.io/collections/swiftui-layout-explained)
+
 ## 2021.05.14
 
 [async-http-client](https://github.com/swift-server/async-http-client): HTTP client library built on SwiftNIO
