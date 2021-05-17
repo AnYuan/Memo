@@ -4,6 +4,8 @@
 
 [TerminalUI](https://github.com/chriseidhof/TerminalUI): related [Swift Talks](https://talk.objc.io/collections/swiftui-layout-explained)
 
+[On Building a Fluid User Interface](https://about.instagram.com/blog/engineering/on-building-a-fluid-user-interface)
+
 ## 2021.05.14
 
 [async-http-client](https://github.com/swift-server/async-http-client): HTTP client library built on SwiftNIO
