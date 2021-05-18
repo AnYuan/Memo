@@ -1,5 +1,9 @@
 # reading list
 
+## 2021.05.18
+
+[Doom Emacs](https://github.com/hlissner/doom-emacs)
+
 ## 2021.05.17
 
 [TerminalUI](https://github.com/chriseidhof/TerminalUI): related [Swift Talks](https://talk.objc.io/collections/swiftui-layout-explained)
