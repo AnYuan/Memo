@@ -1,5 +1,9 @@
 # reading list
 
+## 2021.06.30
+
+[SwiftUI-Shimmer](https://github.com/markiv/SwiftUI-Shimmer): Shimmer is a super-light modifier that adds a shimmering effect to any SwiftUI View, for example, to show that an operation is in progress. It works well on light and dark modes, and across iOS, macOS, tvOS and watchOS.
+
 ## 2021.06.23
 
 [PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource): 程序语言与编译技术相关资料（持续更新中）
