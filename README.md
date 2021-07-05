@@ -1,5 +1,10 @@
 # reading list
 
+## 2021.07.05
+
+[ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners): 12 weeks, 24 lessons, classic Machine Learning for all
+
+
 ## 2021.06.30
 
 [SwiftUI-Shimmer](https://github.com/markiv/SwiftUI-Shimmer): Shimmer is a super-light modifier that adds a shimmering effect to any SwiftUI View, for example, to show that an operation is in progress. It works well on light and dark modes, and across iOS, macOS, tvOS and watchOS.
