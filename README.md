@@ -1,5 +1,9 @@
 # reading list
 
+## 2021.07.19
+
+[ChatLayout](https://github.com/ekazaev/ChatLayout): ChatLayout is an alternative solution to MessageKit. It uses custom UICollectionViewLayout to provide you full control over the presentation as well as all the tools available in UICollectionView. It supports dynamic cells and supplementary view sizes.
+
 ## 2021.07.05
 
 [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners): 12 weeks, 24 lessons, classic Machine Learning for all
