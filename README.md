@@ -3,6 +3,12 @@
 ## 2021.08.20
 [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/computer-networking-a-top-down-approach-notes): 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
 
+[Psyduck](https://github.com/smartkeyerror/psyduck): Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
+
+[systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet): Cheat sheet for x86-64 Unix systems programming
+
+[Practical-Cryptography-for-Developers-Book](https://github.com/nakov/practical-cryptography-for-developers-book): Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
+
 ## 2021.07.19
 
 [ChatLayout](https://github.com/ekazaev/ChatLayout): ChatLayout is an alternative solution to MessageKit. It uses custom UICollectionViewLayout to provide you full control over the presentation as well as all the tools available in UICollectionView. It supports dynamic cells and supplementary view sizes.
